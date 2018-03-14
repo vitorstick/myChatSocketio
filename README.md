@@ -3,7 +3,7 @@ This is a prototype for try express.js and socket.io.
 
 You know the drill:
 
-Intall packages:
+Install packages:
 npm install
 
 Start application:
