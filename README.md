@@ -1,4 +1,4 @@
-This is just a test for socket.io.
+This is a prototype for try express.js and socket.io.
 
 
 You know the drill:
